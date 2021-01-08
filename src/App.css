@@ -1,0 +1,10 @@
+.App{
+    padding-top: 8rem;
+    min-height: 100vh;
+    /* background: rgb(238,174,235); */
+    background: linear-gradient(90deg, rgba(233,238,174,1) 0%, rgba(148,233,216,1) 100%);
+}
+
+.navbar{
+    background-color: #ef5350 !important;
+}
